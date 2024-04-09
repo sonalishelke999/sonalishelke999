@@ -20,15 +20,9 @@
   
   
 <!-- Social Media Badge -->  
-<a href="https://www.linkedin.com/in/sonalishelke999/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
-<a href="https://instagram.com/sonalishelke999"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
-<a href="https://twitter.com/sonalishelke999"> <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;
-<a href="https://youtube.com/@sonalishelke999"> <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>&nbsp;&nbsp;
-<a href="https://ayush07gupta.wordpress.com/"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sonali-shelke-64ba88166/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
+<a href="https://instagram.com/ssonali_insta"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
 
-<!-- wordpress blog -->
-### 📝 I regularly write articles on [https://ayush07gupta.wordpress.com/](https://ayush07gupta.wordpress.com/)
-<hr></hr
 
 
 <!-- Most used languages -->
@@ -65,21 +59,6 @@
 
 <!-- coding from home gif -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzYmNhNWExYTYzZDUwNjhmN2YzYmNkNDkzNmJhNWMyOTVjMjAzNyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" height="290" />
-
-
-
-<!-- Connect with me  -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sonalishelke999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonalishelke999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonalishelke999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalishelke999" height="30" width="40" /></a>
-<a href="https://instagram.com/sonalishelke999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonalishelke999" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sonalishelke999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sonalishelke999" height="30" width="40" /></a>
-</p>
-
-
-
-
 <!-- Streak -->
 <p><img align="center" width="70%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalishelke999&theme=radical&;title_color=ff3068" alt="sonalishelke999" /></p>
 <hr></hr
