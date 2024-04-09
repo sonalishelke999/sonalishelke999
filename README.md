@@ -5,8 +5,8 @@
 
 
 
-<!-- Hi I am Ayush Gupta -->
-<h1 align="center">Hey🙋🏻, I'm Ayush Gupta</h1>
+<!-- Hi I'm Sonali Shelke -->
+<h1 align="center">Hey🙋🏻, I'm Sonali Shelke</h1>
 <h3 align="center">A Python Developer </h3> 
 
 
